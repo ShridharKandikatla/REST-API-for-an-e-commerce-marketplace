@@ -1,5 +1,8 @@
 # REST-API-for-an-e-commerce-marketplace
 Instructions:-
-Install all packages using command (npm install)
-Enter mongodb url in .env file
-start the server (node index.js)
+
+1)Install all packages using command (npm install)
+
+2)Enter mongodb url in .env file
+
+3)start the server (node index.js)
